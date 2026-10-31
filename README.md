@@ -1,2 +1,3 @@
 # orbitcom
-Placeholder repo for the orbitcom project
+
+Placeholder package. The `orbitcom` name is reserved for a future project.
